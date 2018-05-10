@@ -1,4 +1,0 @@
-language: C
-
-script:
-  - make -C hello/ clean all tests
