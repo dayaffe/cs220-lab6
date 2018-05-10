@@ -1,0 +1,4 @@
+language: C
+instrall: true
+script:
+  - make -C hello/ clean all tests
